@@ -1,0 +1,46 @@
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>King Gizzard and the Lizard Wizard - Disco Genius</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>King Gizzard and the Lizard Wizard</h1>
+        <h3>Rock</h3>
+        <p>Garage rock, psychedelic rock, progressive rock, indie rock, progressive pop, psychedelic pop, stoner metal, thrash metal</p>
+    </header>
+    
+    <main>
+        <section class="bio">
+            <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStyLHJzE_l9727P9MpNDBbBD39HoPlFUj9YZQiirl-E86w5K-hkw8SqKYmOUe3l6uhV_lhC6i4Jkjlh0iPczFK_A" alt="Artist/Band Photo">
+            <p>
+                King Gizzard and the Lizard Wizard ("KGLW" or "Gizzard" for short) are a highly prolific Australian rock sextet formed in Melbourne, Victoria, in 2010, known for their stylistic diversity and energetic live presence. They have released 26 studio albums.
+            </p>
+        </section>
+
+        <section class="albums">
+            <h2>Discography Highlights</h2>
+            <ul>
+                <li><strong>I'm in Your Mind Fuzz</strong> (2014) – The first four tracks of Gizzard's fifth effort (and first worldwide release) comprise the krautrock-inspired epic commonly dubbed the "Mind Fuzz Suite". The album's remainder, including fan-favourites "Hot Water" and "Her and I (Slow Jam 2)", generally follows a psychedelic sound, similar to that found on prior releases such as Float Along - Fill Your Lungs. However, seven-minute environmentally-focused epic "Am I in Heaven?" shows a then-unseen progressive side to Gizzard, not quite similar to prior psychedelic efforts or to previous garage-rock efforts.</li>
+                <li><strong>Paper Mâché Dream Balloon</strong> (2015) – After the jazz-rock-tinged Quarters! album, Paper Mâché Dream Balloon is a set of twelve concise and entirely acoustic psychedelic-pop songs, extensively featuring flute and clarinet contributions from frontman Stu Mackenzie. "Sense" and "Trapdoor" are fan favourites and are among the band's best-known works.</li>
+                <li><strong>Nonagon Infinity</strong> (2016) – Taking influence from bands such as Tool and King Crimson, Gizzard's eighth album (featuring live staples "Robot Stop", "Gamma Knife", "People-Vultures" and "Evil Death Roll") is their most known, most celebrated, and greatest work, and its progressive, heavy and conceptual attributes (one of which being the fact that the album is intended to function as an endless loop) would find much use in their later efforts.</li>
+                <li><strong>Album 3</strong> (Year) – Description.</li>
+                <li><strong>Album 3</strong> (Year) – Description.</li>
+            </ul>
+        </section>
+
+        <section class="band-members">
+            <h2>Current Members</h2>
+            <ul>
+                <li>Michael Cavanagh – drums</li>
+                <li>Cook Craig – guitar, vocals</li>
+                <li>Lucas Harwood – bass</li>
+                <li>Ambrose Kenny-Smith – harmonica, keyboards, vocals</li>
+                <li>Stu Mackenzie – guitar, vocals, flute, various others</li>
+                <li>Joey Walker – guitar, vocals</li>
+            </ul>
+        </section>
+    </main>
+
+</body></html>
